@@ -112,10 +112,86 @@
 //      b+=1.6;
 //  }
 
-//trying second method
+//Q12. 14 28 20 40 32 64
 
-// let a =15;
+// let a=14;
+// document.writeln("14")
+// for(let i=1;i<=3;i++){
+
+// for(let j=1;j<=1;j++){
+   
+//    a*=2;
+//    document.writeln(a);
+// }
+// a-=8;
+// document.writeln(a);
+// }
+
+
+//Q13. 2 4 6 8 10 12
+
+// let a=2;
+// for(let i=1;i<=6;i++){
+//   document.writeln(a);
+//   a+=2;
+// }
+
+
+//Q14. 201 202 204 207 211
+
+// let n=201;
+// for(let i=1;i<=5;i++){
+// document.writeln(n);
+// n+=i;
+// }
+
+
+//Q15. 544 509 474 439 404
+
+// let a =544;
 // for(let i=1;i<=5;i++){
 // document.writeln(a);
-// a=(a+8)/10;
+// a-=35;
+// }
+
+
+
+//Q16. 80 10 70 15 60 20
+
+// let a=80;
+// let b=10;
+// for(let i=1;i<=3;i++){
+// document.writeln(a+" "+b);
+// a-=10;
+// b+=5;
+// }
+
+
+//Q17. 2 6 18 54 162
+
+// let a=2;
+// for(let i=1;i<=5;i++){
+// document.writeln(a);
+// a*=3;
+// }
+
+
+//Q18. 5.2  4.8  4.4  4  3.6
+
+// let a=5.2;
+// for(let i=1;i<=5;i++){
+//    document.writeln(a);
+//    a-=0.4;
+// }
+
+
+
+//Q19. 8 6 9 23 87 429
+
+// let a=8;
+
+// for(let i=1;i<=6;i++){
+//    document.writeln(a);
+//    a= a*i-(i+1);
+  
 // }
