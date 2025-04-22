@@ -253,4 +253,122 @@
 
 // Print R
 
+//Print S
 
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=5;j++){
+// if(j==1&&(i==2||i==3||i==7)||j==2&&(i==1||i==4||i==7)||j==3&&(i==1||i==4||i==7)||j==4&&(i==1||i==4||i==7)||j==5&&(i==1||i==5||i==6)){
+// document.writeln("*");
+// }else{
+//     document.writeln("&nbsp &nbsp");
+    
+//     }
+// }
+//     document.writeln("<br>");
+// }
+
+
+//Print T
+
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=5;j++){
+// if(i==1||j==3){
+//     document.writeln("*");
+// }else{
+//     document.writeln("&nbsp");
+    
+// }
+//     }
+//     document.writeln("<br>");
+// }
+
+
+
+// Print U
+
+
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=5;j++){
+// if(i==1&&(j==1||j==5)||i==2&&(j==1||j==5)||i==3&&(j==1||j==5)||i==4&&(j==1||j==5)||i==5&&(j==1||j==5)||i==6&&(j==1||j==5)||i==7&&(j==2||j==3||j==4)){
+// document.writeln("*");
+// }else{
+// document.writeln("&nbsp &nbsp")
+// }
+//     }
+//     document.writeln("<br>");
+// }
+
+
+//Print V
+
+
+// for(let i=1;i<=6;i++){
+//     for(let j=1;j<=5;j++){
+// if(i==1&&(j==1||j==5)||i==2&&(j==1||j==5)||i==3&&(j==1||j==5)||i==4&&(j==1||j==5)||i==5&&(j==2||j==4)||i==6&&j==3){
+// document.writeln("*");
+// }else{
+// document.writeln("&nbsp &nbsp")
+// }
+//     }
+//     document.writeln("<br>");
+// }
+
+
+// Print W
+
+
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=5;j++){
+// if(j==1||j==5||(j==2&&i==6)||(j==3&&i==5)||(j==4&&i==6)){
+//     document.writeln("*");
+// }else{
+//     document.writeln("&nbsp &nbsp");
+    
+// }
+//     }
+//     document.writeln("<br>");
+// }
+
+
+// Print X
+
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=7;j++){
+// if(j==1&&(i==1||i==7)||j==2&&(i==2||i==6)||j==3&&(i==3||i==5)||j==4&&i==4||j==5&&(i==3||i==5)||j==6&&(i==2||i==6)||j==7&&(i==1||i==7)){
+// document.writeln("*")
+// }else{
+// document.writeln("&nbsp&nbsp")
+// }
+//     }
+//     document.writeln("<br>");
+// }
+
+
+
+//Print Y
+
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=7;j++){
+// if(i==1&&(j==1||j==7)||i==2&&(j==2||j==6)||i==3&&(j==3||j==5)||(i==4&&j==4)||(i==5&&j==4)||(i==6&&j==4)||(i==7&&j==4)){
+//     document.writeln("*")
+// }else{
+//     document.writeln("&nbsp&nbsp")
+// }
+//     }
+//     document.writeln("<br>");
+// }
+
+
+// Print Z
+
+
+// for(let i=1;i<=7;i++){
+//     for(let j=1;j<=5;j++){
+//    if(i==1||i==7||(i==2&&j==6)||(i==3&&j==5)||(i==4&&j==4)||(i==5&&j==3)||(i==6&&j==2)){
+// document.writeln("*");
+//    }else{
+// document.writeln("&nbsp");
+//    }
+//     }
+//     document.writeln("<br>");
+// }
