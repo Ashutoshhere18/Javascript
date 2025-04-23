@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Q. wap to find maximum of 5 numbers using nested if else
+        let a=parseInt(prompt("Enter value of a: "));
+        let b=parseInt(prompt("Enter value of b: "));
+        let c=parseInt(prompt("Enter value of c: "));
+        let d=parseInt(prompt("Enter value of d: "));
+        let e=parseInt(prompt("Enter value of e: "));
+
+        //a,b,c,d,e
+        if(a>b){
+// a,c,d,e
+if(a>c){
+// a,d,e
+if(a>d){
+//a,e
+if(a>e){
+    //a
+console.log("a is max");
+}else{
+//e
+console.log("d is max");
+}
+}else{
+//d,e
+if(d>e){
+    //d
+    console.log("d is max");
+}else{
+    //e
+    console.log("e is max");
+}
+}
+}else{
+    //c,d,e
+    if(c>d){
+      //c ,e
+      if(c>e){
+        //c
+        console.log("c is max");
+      }else{
+        //e
+        console.log("e is max");
+      }
+    }else{
+        //d,e
+        if(d>e){
+       //d
+console.log("d is max");
+        }else{
+            console.log("e is max");
+        }
+    }
+
+}
+        }else{
+            //b,c,d,e
+            if(b>c){
+                //b,d,e
+             if(b>d){
+              //b,e
+              if(b>e){
+                //b
+                console.log("b is max");
+              }else{
+             //e
+             console.log("e is max");
+              }
+             }else{
+            // d,e
+            if(d>e){
+                //d
+                console.log("d is max");
+            }else{
+                //e
+                console.log("e is max");
+            }
+             }
+            }else{
+                //c,d,e
+                if(c>d){
+                 //c,e
+                 if(c>e){
+                    //c
+                    console.log("c is max");
+                 }else{
+                    //e
+                    console.log("e is max");
+                 }
+                }else{
+                  //d,e
+                  if(d>e){
+                    //d
+                    console.log("d is max");
+                  }else{
+                  //e
+                  console.log("e is max");
+                  }
+                }
+
+            }
+
+        }
+    </script>
+</body>
+</html>
