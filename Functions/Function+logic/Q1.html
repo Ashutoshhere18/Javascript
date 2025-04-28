@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        //wap to check whether the passed number in UDF is prime or not.
+        
+        let n = parseInt(prompt("Enter number to check."));
+        function is_prime(n) {
+            let a=0;
+            for (let i = 1; i <= n; i++) {
+             
+               if(n%i==0){
+                     a++;
+               } 
+            }
+            
+              return a==2; 
+            }
+        
+      
+      
+
+        let value = is_prime(n);
+        if(value){
+document.writeln("The entered number is prime. ");
+        }else{
+            document.writeln("The entered number is not prime. ");
+        }
+        
+    </script>
+</body>
+
+</html>

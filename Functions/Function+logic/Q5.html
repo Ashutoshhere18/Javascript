@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <script>
+    //wap to create a calculator using UDF & switch case.
+    let a=parseInt(prompt("Enter first number: "));
+    let b=parseInt(prompt("Enter second number: "));
+    let c=parseInt(prompt("enter 1 for addition, 2 for subtraction, 3 for multiplication and 4 for division."));
+    function calculator(c){
+     let d;
+        switch(c){
+         case 1:
+           d= a+b;
+            break;
+         case 2:
+            d=a-b;
+            break;
+         case 3:
+          d= a*b;
+            break;
+         case 4:
+           d=a/b;
+            break;
+        }
+        return d ;
+    }
+
+    let final=calculator(c);
+    document.writeln("The solution of chosen case is:"+final);
+    
+   </script> 
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // wap to print a 1 to 5 table using a function as explain in class.
+
+        let n=prompt("Enter the number to print table till given number:");
+        
+        function table(n){
+         for(let i=1;i<=10;i++){//x=1 from starting it will change once the inner loop terminates.
+             for( let x=1;x<=n;x++){// i=1,2,3.... it will change according to turn.
+ document.writeln(x+ " * " + i +" = " + x*i);
+ document.writeln("&nbsp ");
+
+             }
+
+
+             document.writeln("<br>"); 
+         }
+        }
+       
+        table(n);
+    </script>
+</body>
+</html>
