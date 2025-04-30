@@ -10,22 +10,46 @@
         //wap to check given number is armstrong or not.
 
     // taking 153 a core to find out armstrong
-    let n=parseInt(prompt("Enter number:"));
-    let digits=parseInt(prompt("Enter number of digits:"));
-   function is_armstrong(n){
-        for(let i=1;i<=digits;i++){
-            n*digits;
-        }
-        return n;
-   }
+     let num=parseInt(prompt("Enter number to check:"));
+function is_armstrong(num){//153
+let temp= num;
+let total=0;
 
-   let value=is_armstrong(n);
-   if(value==n){
-document.writeln("Entered number is armstrong");
-   }else{
-    document.writeln("Entered number is not armstrong");
-   }
+while (temp>0){
+let ld=temp%10; // 153%10= 3
+let value=1;
 
+
+     for(let i=1;i<=count(num);i++){
+         value*=ld;
+     }  
+    
+  total+=value;
+ temp=Math.floor(temp/=10);
+    }
+
+ if(total==num){
+document.writeln("The given number is armstrong.");
+  }else{
+    document.writeln("The given number is not armstrong.");
+  }
+}
+
+function count(num){
+    let i=0;
+    while(num>0){
+     num=Math.floor(num/=10);
+     i++
+    }
+    return i;
+}
+
+// let final=count(num);
+// document.writeln(final);
+ 
+
+ 
+is_armstrong(num);
 
     </script>
 </body>
