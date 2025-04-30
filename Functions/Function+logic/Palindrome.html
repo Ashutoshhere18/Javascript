@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //wap to check given number is palindrome or not.
+        // ex - 121 
+let num=parseInt(prompt("Enter value to check:"));
+let reverse=0;
+        function is_palindrome(num){
+            let temp=num;
+            while(temp>0){
+                let rev=temp%10;// 121%10=1, 12%10=2, 1%10=1
+                reverse= (reverse*10)+rev;  // 1st step=0*10+1=1, 2nd step= 0*10+2=2, 3rd step= 0*10+1=1
+              temp= Math.floor( temp/=10) ;
+              
+            }
+            if(num===reverse){
+document.writeln("The given number is palindrome");
+            }else{
+                document.writeln(" The given number is not palindrome");
+            }
+           
+         }
+        
+
+       
+            is_palindrome(num);
+
+    
+    </script>
+</body>
+</html>

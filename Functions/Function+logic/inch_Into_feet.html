@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //wap to convert inch into feet : inch format.
+
+        // 1 feet=12 inches, so if 40 inch than 3 feet 4 inch.
+let inches=parseInt(prompt("Enter inches:"));
+        function inch_convt(inches){
+            if(inches<0){
+document.writeln("negative inches are not allowed!");
+            }else{
+                 let f,i;
+                 f=Math.floor(inches/12);
+                 i=inches%12;
+                 document.writeln(f+" feet :"+i+" inches");
+            }
+        }
+       
+        inch_convt(inches);
+    </script>
+</body>
+</html>

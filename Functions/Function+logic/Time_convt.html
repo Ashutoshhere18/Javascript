@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function TimeConverter(seconds){
+    let h,m,s;
+    m=Math.floor(seconds/60);
+    s=seconds%60;
+    h=Math.floor(m/60);
+    m= m%60;
+
+    document.writeln(h+":"+m+":"+s);
+        }
+
+        TimeConverter(45252);
+    </script>
+</body>
+</html>
