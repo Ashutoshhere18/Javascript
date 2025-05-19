@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // wap to find frequency of every element of array.
+
+      let nums = [4, 6, 8, 7, 4, 3, 5, 9, 8, 2, 6, 4, 7, 3, 1, 5, 8];
+
+      for (let i = 0; i < nums.length; i++) {
+        let count = 1;
+        for (let j = i + 1; j < nums.length; j++) {
+          if (nums[i] == nums[j]) {
+            count++;
+            nums.splice(j, 1);
+            j--;
+          }
+        }
+
+        document.writeln(nums[i], ":", count, "<br>");
+      }
+    </script>
+  </body>
+</html>
