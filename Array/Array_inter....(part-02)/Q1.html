@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // wap to find duplicate elements from the array.
+
+      let nums = [2, 6, 7, 8, 5, 2, 4, 7, 2, 6, 8, 7, 6, 6, 5, 5];
+
+      for (let i = 0; i < nums.length; i++) {
+        let isfirst = false;
+        for (let j = i + 1; j < nums.length; j++) {
+          if (nums[i] == nums[j]) {
+            nums.splice(j, 1);
+            if (isfirst == false) {
+              document.writeln(nums[i]);
+              isfirst = true;
+            }
+          }
+        }
+      }
+    </script>
+  </body>
+</html>
