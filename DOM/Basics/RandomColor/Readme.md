@@ -18,6 +18,10 @@ JavaScript – Logic for color generation and clipboard interaction.
 📸 Demo
 
 
+https://github.com/user-attachments/assets/1021d1b6-e4e6-4c14-8bbf-a00fc754b52d
+
+
+
 
 📂 Project Structure
 
