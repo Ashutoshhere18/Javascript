@@ -34,10 +34,14 @@ Whether you're a student, developer, content creator, or just need to polish you
 
 
 
+https://github.com/user-attachments/assets/3153d718-4791-4232-80e8-f69269175d51
+
+
+
 ## 🧪 Example Output
 
 **Input Text:**
-> “Before you speak, let your words pass through three gates: Is it true? Is it necessary? Is it kind?”
+> “Nothing is more powerful than words”
 
 **After clicking "Add Text":**
 - 🔢 Characters: `38`
