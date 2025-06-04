@@ -36,6 +36,13 @@ Built with 💻 **HTML**, 🎨 **Bootstrap**, and a sprinkle of 🧠 **JavaScrip
 - **JavaScript DOM** – for dynamic interaction ⚙️
 
 ---
+Demo:-
+
+
+https://github.com/user-attachments/assets/03f53712-9f4c-49f7-8b61-a19808fa4198
+
+
+
 
 ## 🖼️ A Peek Inside
 
