@@ -37,14 +37,6 @@ Built with 💻 **HTML**, 🎨 **Bootstrap**, and a sprinkle of 🧠 **JavaScrip
 
 ---
 
-DEMO:-
-
-
-https://github.com/user-attachments/assets/0ffed88f-0ffb-471c-872a-fc56dbc15571
-
-
-
-
 ## 🖼️ A Peek Inside
 
 > _“Your heart is the size of an ocean. Go find yourself in its hidden depths.”_ — Rumi  
