@@ -9,6 +9,10 @@ In this repo, you'll find **4 small but fun JavaScript projects** bundled togeth
 Watch the full walkthrough of all projects in one go!  
 📹 
 
+https://github.com/user-attachments/assets/68d111d1-6afb-4fe6-9da2-0f608e2402ab
+
+
+
 ---
 
 ## 📋 Project Descriptions
