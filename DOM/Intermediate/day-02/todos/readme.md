@@ -32,8 +32,13 @@ ToDo-App/
 ├── style.css        # Styling for a beautiful UI
 └── script.js        # JavaScript DOM logic for interactivity
 ````
+DEMO:-
 
-DEMO :-
+
+https://github.com/user-attachments/assets/fcbccd4b-4d8e-41dc-b9c2-deb7512ee02d
+
+
+
 
 ---
 
