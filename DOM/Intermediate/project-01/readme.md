@@ -7,7 +7,15 @@ Welcome to the **Note Maker App** – a simple, elegant, and fully responsive we
 
 ## 🎥 Demo Video
 
-📺 **Watch the Live Demo Here**:  
+📺 **Watch the Live Demo Here**:
+
+
+https://github.com/user-attachments/assets/b729d6e8-e19c-458d-9be3-b4a48cc260a0
+
+
+
+
+  
 
 
 ---
