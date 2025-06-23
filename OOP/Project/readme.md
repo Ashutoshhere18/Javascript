@@ -77,7 +77,7 @@ $('#email').on('blur', function () {
 ## 🔧 Installation
 
 1. Clone the repo
-
+https://github.com/Ashutoshhere18/Javascript/edit/main/OOP/Project
    ```bash
    git clone 
    ```
@@ -100,6 +100,10 @@ $('#email').on('blur', function () {
 
 ## 🔍 Demo
 > [![Watch the demo]]
+
+
+https://github.com/user-attachments/assets/25a2de07-529e-44c1-a88a-c6dd591081d1
+
 
 
 ---
