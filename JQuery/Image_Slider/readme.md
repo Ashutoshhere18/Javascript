@@ -20,6 +20,11 @@
 ## 📸 Preview
 
 > Check the screen recording for a quick walkthrough of the functionality and UI.
+> 
+
+https://github.com/user-attachments/assets/d78f1998-a42d-44ce-9a62-9814e77bb6ca
+
+
 
 ## 🧠 Key Concepts Applied
 
@@ -40,7 +45,7 @@ Feel free to fork the repo and submit pull requests to enhance features or UI!
 
 ---
 
-🔗 Connect with me on [LinkedIn]  <!-- Replace with your actual link -->
+🔗 Connect with me on linkedin.com/in/ashutosh-mishra-26633334b 
 
 ```
 
