@@ -17,6 +17,13 @@ Welcome to **Sportify** – a dynamic, JavaScript-powered e-commerce frontend fo
 ✅ Responsive UI with Bootstrap styling  
 
 ---
+## 📸 Sample 
+
+
+https://github.com/user-attachments/assets/c9417f55-f2ff-4806-88bb-d9db0ab7d0af
+
+
+> 
 
 ## 📦 Product Categories
 
@@ -85,13 +92,6 @@ Calculates totals, displays cart contents, and creates a billing section with dy
 Removes an item from cart and updates both DOM and localStorage.
 
 ---
-
-## 📸 Sample 
-
-> 
-
----
-
 
 
 ## ✨ Author
