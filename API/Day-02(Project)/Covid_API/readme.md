@@ -36,6 +36,8 @@ Welcome to the **India COVID-19 Stats Tracker** — a lightweight and dynamic ap
 ---
 
 ## 🧩 Snapshot
+![Screenshot 2025-07-09 130655](https://github.com/user-attachments/assets/173f75ea-529e-4ac2-98da-91bcd6c489da)
+
 
 
 ````
