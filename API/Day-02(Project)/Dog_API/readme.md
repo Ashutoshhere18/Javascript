@@ -17,6 +17,7 @@ Welcome to the **Random Doggo Fetcher** 🐾 — a cute and simple web app that 
 ## 🖼️ Screenshot
 
 Here's a preview of the app in action:  
+![Screenshot 2025-07-09 131232](https://github.com/user-attachments/assets/47762742-52a4-4e6d-834d-fbc31ae6c069)
 
 
 ---
