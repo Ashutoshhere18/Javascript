@@ -9,6 +9,10 @@ Welcome to **WeatherNow**, a sleek, simple, and dynamic weather dashboard that b
 ## 📸  Preview
 
 
+https://github.com/user-attachments/assets/4c55c92e-d423-457f-8dd2-9b5ff562c7a9
+
+
+
 
 ---
 
