@@ -1,0 +1,62 @@
+
+body {
+    /* background-image: url('https://www.tracelink.com/sites/default/files/2024-02/Supply%20Chain%20Work%20Management2_0.png'); */
+    background-image: url('https://sandstormit.com/wp-content/uploads/2019/06/window-1231894_1920-768x523-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 30px;
+    flex-wrap: wrap; 
+    padding: 20px;
+    gap: 20px;
+}
+
+
+.box1 {
+    width: 350px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(5px);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+label {
+    color: rgb(90, 5, 62);
+    font-weight: bold;
+}
+
+
+.TaskList {
+    width: 350px;
+    max-height: 400px;
+    overflow-y: auto; 
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(5px);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.TaskList h4,
+.TaskList p {
+    margin: 0;
+    padding: 5px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
