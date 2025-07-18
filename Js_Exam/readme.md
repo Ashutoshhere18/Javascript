@@ -44,6 +44,10 @@ A lightweight and intuitive **Task Manager App** built using vanilla JavaScript 
 ## 📷 UI Preview 
 
 
+
+https://github.com/user-attachments/assets/4ca0b340-9c2b-429a-8941-a6d2c8ea6930
+
+
 ---
 
 ## 📁 File Structure
